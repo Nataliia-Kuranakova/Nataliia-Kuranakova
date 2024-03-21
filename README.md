@@ -23,14 +23,15 @@ That's what I'm working towards, and I'm excited about the journey ahead.
 </p>
 
 
-<br />
-
 ## Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nataliia-Kuranakova&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" size="25" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nataliia-Kuranakova&show_icons=true&locale=en&layout=compact&theme=radical&border_color=f1e05a" alt="Top Languages"  />
 
 ## 📈 My GitHub Stats:
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=Nataliia-Kuranakova&show_icons=true&theme=radical&border_color=f1e05a" alt="GitHub Stats"/>
 
-![Nataliia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nataliia-Kuranakova&show_icons=true&theme=radical)
+
+
+
 
 
 
