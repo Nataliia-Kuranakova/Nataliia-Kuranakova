@@ -12,11 +12,6 @@
 
 <hr/>
 
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
-
-<hr/>
-
 ## Languages and Tools
 
    [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
