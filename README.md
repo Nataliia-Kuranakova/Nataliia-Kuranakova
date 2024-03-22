@@ -10,7 +10,7 @@
  
  That's what I'm working towards, and I'm excited about the journey ahead.
 
- ![Static Badge](https://img.shields.io/badge/Linkedin-0a66c2?style=flat&logo=linkedin&logoColor=white&labelColor=fffff&color=0a66c2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnataliia-kuranakova-93515525a%2F)
+ [![Static Badge](https://img.shields.io/badge/Linkedin-0a66c2?style=flat&logo=linkedin&logoColor=white&labelColor=fffff&color=0a66c2)](https://www.linkedin.com/in/nataliia-kuranakova-93515525a/)
 
 
 ## Languages and Tools
